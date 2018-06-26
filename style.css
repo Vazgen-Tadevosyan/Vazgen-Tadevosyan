@@ -1,0 +1,46 @@
+#headings{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#headings td, #headings th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#headings tr:nth-child(even){background-color: green;}
+
+#headings tr:hover {background-color: green;}
+
+#headings th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+h3:hover{
+	background-color: green;
+	COLOR: blue; 
+	font-weight: 20px ;
+	font-variant-position: center
+	font-familyt:italic;}
+
+
+body{
+	background-image: url('http://www.dreamtemplate.com/dreamcodes/bg_images/light/l3.jpg'); 
+}
+.skills:hover{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+}
+
+#b {
+    max-width: 500px;
+    margin: auto;
+}
+#asaa{background-image: url('http://www.dreamtemplate.com/dreamcodes/bg_images/light/l3.jpg');
+ max-width: 500px;
+    margin: auto;
+    }
